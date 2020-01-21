@@ -59,7 +59,7 @@
     "gulp-babel": "8.0.0",
     "gulp-header": "2.0.9",
     "gulp-if": "3.0.0",
-    "gulp-imagemin": "6.2.0",
+    "gulp-imagemin": "7.1.0",
     "gulp-livereload": "4.0.2",
     "gulp-load-plugins": "2.0.1",
     "gulp-plumber": "1.2.1",
