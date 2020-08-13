@@ -49,7 +49,7 @@
   "devDependencies": {
     "@babel/core": "7.7.5",
     "@babel/preset-env": "7.7.6",
-    "autoprefixer": "9.7.3",
+    "autoprefixer": "9.8.6",
     "css-mqpacker": "7.0.0",
     "csscomb": "4.3.0",
     "cssnano": "4.1.10",
