@@ -68,7 +68,7 @@
     "gulp-sourcemaps": "2.6.5",
     "gulp-uglify": "3.0.2",
     "gulp-zip": "5.0.1",
-    "standard": "14.3.1"
+    "standard": "16.0.3"
   },
   "engines": {
     "ghost": ">=2.10.0",
