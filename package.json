@@ -52,7 +52,7 @@
     "autoprefixer": "9.7.3",
     "css-mqpacker": "7.0.0",
     "csscomb": "4.3.0",
-    "cssnano": "4.1.10",
+    "cssnano": "5.0.6",
     "del": "5.1.0",
     "gscan": "3.2.0",
     "gulp": "4.0.2",
