@@ -47,8 +47,8 @@
     "open-color": "1.7.0"
   },
   "devDependencies": {
-    "@babel/core": "7.7.5",
-    "@babel/preset-env": "7.7.6",
+    "@babel/core": "7.14.6",
+    "@babel/preset-env": "7.14.5",
     "autoprefixer": "9.7.3",
     "css-mqpacker": "7.0.0",
     "csscomb": "4.3.0",
